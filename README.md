@@ -10,4 +10,4 @@ ETL process on Happiness & Suicide Correlation globally during 2015 & 2016 using
 > 6. (Optional) Integrate Tableau/PowerBI/further transformation/configuration to your liking.
 ***
 ### Result: 
-Happier/Wealthier countries do not necessarily translate to lower suicide rates. The paradox behind this output with specified restraints is that higher levels of happiness leads to higher rates of suicide.
+Happier/Wealthier countries during 2015 & 2016 do not necessarily translate to lower suicide rates. The paradox behind this output with specified restraints is that higher levels of happiness leads to higher rates of suicide.
