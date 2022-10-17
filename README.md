@@ -1,5 +1,5 @@
 ## Happiness-Correlation
-ETL process using open source datasets from Kaggle. Finalized data used for further analysis or data visualization.
+ETL process on Happiness & Suicide Correlation globally during 2015 & 2016 using open source datasets from Kaggle. Finalized data used for further analysis or data visualization.
 
 # Getting Started:
 > 1. Download or clone repository
